@@ -1,16 +1,17 @@
-### Hi there 👋
+<--### Hi there 👋 -->
 
-<!--
-**AlexandrosNakos/AlexandrosNakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=AlexanderNakos&color=green&label=Profile+Views)
 
-Here are some ideas to get you started:
+# Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Hello, I'm Alexandros!*
+- *I work as a Data Scientist at [Kaizen Gaming](https://kaizengaming.com/)*
+- *My daily tech stack includes `Python`, `PySpark`, `SQL`, `Databricks`, `Power BI`*
+- *I hold a [MSc in Data Science](https://datascience.aueb.gr/) from the Athens University of Economics and Business*
+- *My work related interests include advanced analytics, machine learning applications, text analytics and process automation*
+- *[Click here to learn more about me on my LinkedIn profile](https://www.linkedin.com/)*
+- *Oh, and thanks for dropping by, I hope you find some of my work interesting!*
+
+---
+
+![Google Dino](images/dino_rounded.gif)

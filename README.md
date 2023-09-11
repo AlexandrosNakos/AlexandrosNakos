@@ -1,16 +1,15 @@
 
-
 ![](https://komarev.com/ghpvc/?username=AlexanderNakos&color=green&label=Profile+Views)
 
-### Hi there 👋
+### Welcome 👋
 
-- *Hello, I'm Alexandros!*
-- *I work as a Data Scientist at [Kaizen Gaming](https://kaizengaming.com/)*
-- *My daily tech stack includes `Python`, `PySpark`, `SQL`, `Databricks`, `Power BI`*
-- *I hold a [MSc in Data Science](https://datascience.aueb.gr/) from the Athens University of Economics and Business*
-- *My work related interests include advanced analytics, machine learning applications, text analytics and process automation*
-- *[Click here to learn more about me on my LinkedIn profile](https://www.linkedin.com/)*
-- *Oh, and thanks for dropping by, I hope you find some of my work interesting!*
+- *Hi, I'm Alexandros!*
+- *I hold an [Msc in Electical & Computer Engineering](https://www.ece.upatras.gr/index.php/en/) from the University of Patras and a [MSc in Data Science](https://datascience.aueb.gr/) from the Athens University of Economics and Business*
+- *I work as a BI Engineer at [Quant](https://qquant.gr/)*
+- *My daily tech stack includes `Python`, `SQL`, `Power BI`, `SSIS`*
+- *My work related interests include advanced analytics, machine learning applications, text analytics, business process automation and Data Warehouses*
+- *[Click here to visit my LinkedIn profile](https://www.linkedin.com/)*
+- *Thanks for stopping by, I hope you find some of my work interesting!*
 
 ---
 

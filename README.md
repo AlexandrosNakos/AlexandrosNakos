@@ -8,8 +8,9 @@
 - *I work as a BI Engineer at [Quant](https://qquant.gr/)*
 - *My daily tech stack includes `Python`, `SQL`, `Power BI`, `SSIS`*
 - *My work related interests include advanced analytics, machine learning applications, text analytics, business process automation and Data Warehouses*
-- *[Click here to visit my LinkedIn profile](https://www.linkedin.com/)*
-- *Thanks for stopping by, I hope you find some of my work interesting!*
+- *[Click here to learn more by visiting my LinkedIn profile](https://www.linkedin.com/)*
+- *I hope you find some of my work interesting*
+- *Thanks for stopping by!*
 
 ---
 

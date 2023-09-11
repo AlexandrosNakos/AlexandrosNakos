@@ -1,8 +1,8 @@
-<--### Hi there 👋 -->
+
 
 ![](https://komarev.com/ghpvc/?username=AlexanderNakos&color=green&label=Profile+Views)
 
-# Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">
+### Hi there 👋
 
 - *Hello, I'm Alexandros!*
 - *I work as a Data Scientist at [Kaizen Gaming](https://kaizengaming.com/)*
